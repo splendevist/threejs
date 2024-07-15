@@ -1,4 +1,4 @@
-[link]
+earth-orbit-sun-threejs.vercel.app
 
 Earth orbiting Sun using Three.js and Next.js.
 
